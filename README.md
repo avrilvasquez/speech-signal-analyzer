@@ -4,6 +4,10 @@ A Python and Streamlit app that visualizes speech recordings through waveforms, 
 
 I built this project to connect my Computer Science and Linguistics studies with hands-on speech signal processing.
 
+## Live Demo
+
+[Try the Speech Signal Analyzer](https://avril-speech-analyzer.streamlit.app/)
+
 ## Features
 
 - Upload and play WAV recordings
